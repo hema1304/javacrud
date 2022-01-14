@@ -36,7 +36,7 @@ public class jc {
 	private JTextField txtbid;
 
 	/**
-	 * Launch the application.
+	 * Launch the applicatio
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
